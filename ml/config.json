@@ -1,0 +1,5 @@
+{
+  "seed": 20260921,
+  "shrinkage": 3,
+  "validation_shrinkage_grid": [1, 3, 10]
+}

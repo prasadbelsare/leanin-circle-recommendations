@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "user_id": 42,
+    "requested_limit": 5,
+    "count": 5
+  },
+  "recommendations": [
+    {
+      "rank": 1,
+      "circle_id": 39,
+      "name": "Mentorship Matters",
+      "description": "A supportive circle for women focused on sponsorship & mentorship.",
+      "primary_topic": "sponsorship-mentorship",
+      "format": "virtual",
+      "join_policy": "open",
+      "explanation": "Explore a virtual Circle focused on sponsorship and mentorship, with recent group activity."
+    },
+    {
+      "rank": 2,
+      "circle_id": 11,
+      "name": "The Negotiation Table",
+      "description": "A supportive circle for women focused on negotiation.",
+      "primary_topic": "negotiation",
+      "format": "hybrid",
+      "join_policy": "open",
+      "explanation": "Explore a hybrid Circle focused on negotiation, with recent group activity."
+    },
+    {
+      "rank": 3,
+      "circle_id": 24,
+      "name": "Burnout to Balance",
+      "description": "A supportive circle for women focused on stress & burnout.",
+      "primary_topic": "stress-burnout",
+      "format": "hybrid",
+      "join_policy": "open",
+      "explanation": "Explore a hybrid Circle focused on stress and burnout, with recent group activity."
+    },
+    {
+      "rank": 4,
+      "circle_id": 8,
+      "name": "Managing Up Guild",
+      "description": "A supportive circle for women focused on managing up.",
+      "primary_topic": "managing-up",
+      "format": "hybrid",
+      "join_policy": "open",
+      "explanation": "Explore a hybrid Circle focused on managing up, with recent group activity."
+    },
+    {
+      "rank": 5,
+      "circle_id": 22,
+      "name": "Level Up Collective",
+      "description": "A supportive circle for women focused on getting promoted.",
+      "primary_topic": "getting-promoted",
+      "format": "hybrid",
+      "join_policy": "request",
+      "explanation": "Explore a hybrid Circle focused on getting promoted, with recent group activity; membership requires approval."
+    }
+  ]
+}

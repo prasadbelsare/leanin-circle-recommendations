@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "user_id": 7,
+    "requested_limit": 5,
+    "count": 5
+  },
+  "recommendations": [
+    {
+      "rank": 1,
+      "circle_id": 35,
+      "name": "Board-Ready Women",
+      "description": "A supportive circle for women focused on leadership skills.",
+      "primary_topic": "leadership-skills",
+      "format": "in_person",
+      "join_policy": "open",
+      "explanation": "Explore your interest in leadership skills with this Circle."
+    },
+    {
+      "rank": 2,
+      "circle_id": 6,
+      "name": "Speak Up Circle",
+      "description": "A supportive circle for women focused on public speaking.",
+      "primary_topic": "public-speaking",
+      "format": "in_person",
+      "join_policy": "open",
+      "explanation": "Explore your interest in public speaking with this Circle, which also connects with leadership skills."
+    },
+    {
+      "rank": 3,
+      "circle_id": 34,
+      "name": "Visibility Lab",
+      "description": "A supportive circle for women focused on visibility & recognition.",
+      "primary_topic": "visibility-recognition",
+      "format": "hybrid",
+      "join_policy": "open",
+      "explanation": "Focused on visibility and recognition, this Circle also connects with your interest in public speaking."
+    },
+    {
+      "rank": 4,
+      "circle_id": 1,
+      "name": "The Elevation Circle",
+      "description": "A supportive circle for women focused on leadership skills.",
+      "primary_topic": "leadership-skills",
+      "format": "in_person",
+      "join_policy": "open",
+      "explanation": "Explore your interest in leadership skills with this Circle."
+    },
+    {
+      "rank": 5,
+      "circle_id": 5,
+      "name": "Women Who Lead",
+      "description": "A supportive circle for women focused on leadership skills.",
+      "primary_topic": "leadership-skills",
+      "format": "hybrid",
+      "join_policy": "open",
+      "explanation": "Explore your interest in leadership skills with this Circle."
+    }
+  ]
+}
